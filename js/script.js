@@ -15,7 +15,7 @@ const global = {
 
 // Display 20 most popular movies
 async function displayPopularMovies() {
-  const { results } = await fetchAPIData('tv/popular');
+  const { results } = await fetchAPIData('movie/popular');
 
   results.forEach(movie => {
     const div = document.createElement('div');
