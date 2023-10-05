@@ -1,6 +1,6 @@
 # Flixx App
 
-Demo: https://heartfelt-wisp-7512b9.netlify.app/
+Demo: https://flixx-app-kd.netlify.app/
 
 Movie and TV Show info app with Vanilla JS that uses the <b>version 3</b> of <a href="https://developers.themoviedb.org/3">TMDB</a>
 
